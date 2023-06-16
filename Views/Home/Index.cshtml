@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">FilmReviewerApp</h1>
+    <img src="\film.jpg" alt="film" width="500" height="333">
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Series</h2>
+        <p>View all series in our database.</p>
+        <p>
+            <a class="btn btn-default" asp-controller="Series" asp-action="Index">View Series &raquo;</a>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Films</h2>
+        <p>View all films in our database.</p>
+        <p>
+            <a class="btn btn-default" asp-controller="Film" asp-action="Index">View Films &raquo;</a>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Reviews</h2>
+        <p>View all reviews in our database.</p>
+        <p>
+            <a class="btn btn-default" asp-controller="Review" asp-action="Index">View Reviews &raquo;</a>
+        </p>
+    </div>
+</div>
