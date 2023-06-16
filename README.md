@@ -1,5 +1,7 @@
 # FilmReviewer
 
+Project Team: Milena Smołka, Jakub Truszkowski
+
 
 ## Table of contents
 * [General info](#general-info)
