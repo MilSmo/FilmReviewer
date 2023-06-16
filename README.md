@@ -23,5 +23,14 @@ The project is created using the following technologies:
 * Microsoft.VisualStudio.Web.CodeGeneration.Design
 	
 ## Setup
+To run this project, follow the steps below:
+* Open the terminal or command prompt and navigate to the directory where you want to clone the project.
+* Clone the project repository
+* Navigate to the project directory
+* Install the required packages and dependencies
+* Run the database migrations to create the necessary database schema
+* Start the application
+
+
 
 
