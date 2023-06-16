@@ -31,6 +31,6 @@ To run this project, follow the steps below:
 * Run the database migrations to create the necessary database schema
 * Start the application
 
-
+![Screenshot](https://user-images.githubusercontent.com/92380575/246480139-4b4a6dc8-b072-4c6c-a498-e280fb5336b3.png)
 
 
